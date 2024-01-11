@@ -1,1 +1,1 @@
-![solar2](https://github.com/km841/MySolarSystem/assets/56809638/3c510b10-06a7-4269-9955-b4d7421b199b)
+![solar2](https://github.com/km841/MySolarSystem/assets/56809638/a5a583c5-6cd5-403a-b9b9-9a07256cf036)
