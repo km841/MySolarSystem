@@ -1,4 +1,6 @@
-![solar2](https://github.com/km841/MySolarSystem/assets/56809638/79986f22-c3c5-462e-ac7d-669e8442ef26)
+
+![solar2](https://github.com/km841/MySolarSystem/assets/56809638/0ab95cf1-de9e-4b80-a1fd-22d8bd6103cc)
+
 <br/>
 WebGL, three.js 연습용 프로젝트(Solar System)<br/>
 - Particle System<br/>
