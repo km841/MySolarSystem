@@ -2,7 +2,7 @@
 <br/>
 WebGL, three.js 연습용 프로젝트(Solar System)<br/>
 - Particle System<br/>
-- Unreal Blur<br/>
+- Unreal Bloom<br/>
 - Texturing<br/>
 
 <br/>
